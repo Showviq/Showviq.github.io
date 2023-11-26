@@ -21,17 +21,4 @@ Currently, I'm doing an undergraduate in Software Engineering (SWE) under the Co
 ## Tools
 <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
-## Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Showviq&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Showviq&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
-<!-- (![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Showviq&locale=en&theme=github-dark-blue&hide_border=true)) -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=Showviq&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
-## Other Profiles
-<div align="center">
-<a href="https://linkedin.com/in/sami-ul-haque-showviq-041398227" target="_blank"> 
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://codeforces.com/profile/Samiulhaque_Showviq" target="_blank"> 
-<img src=https://img.shields.io/badge/Codeforces-%23A0522D.svg?&style=for-the-badge&logo=Codeforces&logoColor=white alt=Codeforce style="margin-bottom: 5px;" />
-</a>
-</div>
+
